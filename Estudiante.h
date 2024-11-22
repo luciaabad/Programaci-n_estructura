@@ -13,6 +13,9 @@ struct Estudiante {
 typedef struct Estudiante Estudiante;
 Estudiante copiarEstudiante(Estudiante est);
 void imprimirEstudiante(Estudiante est);
+void modificarEstudiante(Estudiante *est);
+void imprimirEstudiante2(Estudiante *est);
+
 
 
 

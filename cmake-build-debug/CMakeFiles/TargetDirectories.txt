@@ -1,0 +1,3 @@
+/Users/luciaabad/Documents/GitHub/Programaci-n_estructura/cmake-build-debug/CMakeFiles/Programaci_n_estructura.dir
+/Users/luciaabad/Documents/GitHub/Programaci-n_estructura/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luciaabad/Documents/GitHub/Programaci-n_estructura/cmake-build-debug/CMakeFiles/rebuild_cache.dir

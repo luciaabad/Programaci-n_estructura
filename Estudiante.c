@@ -16,3 +16,11 @@ Estudiante copiarEstudiante(Estudiante est) {
 void imprimirEstudiante(Estudiante est) {
     printf("Nombre: %s, Edad: %d, Promedio: %.2f\n", est.nombre, est.edad, est.promedio);
 }
+
+void modificarEstudiante(Estudiante *est) {
+    est->edad = 30;  // Cambiar la edad como ejemplo
+}
+
+void imprimirEstudiante2(Estudiante *est) {
+    printf("Nombre: %s, Edad: %d, Promedio: %.2f\n", est->nombre, est->edad, est->promedio);
+}

@@ -1,0 +1,15 @@
+# ninja log v6
+1	30	1732274296852758291	CMakeFiles/Programaci_n_estructura.dir/Estudiante.c.o	da2bd6b7d72c2c68
+1	30	1732274296852533126	CMakeFiles/Programaci_n_estructura.dir/main.c.o	272d6cf7bb202aea
+31	64	1732274296882486378	Programaci_n_estructura	e7e1a52292be3f39
+1	25	1732274476058909673	CMakeFiles/Programaci_n_estructura.dir/Estudiante.c.o	da2bd6b7d72c2c68
+0	27	1732274476058683756	CMakeFiles/Programaci_n_estructura.dir/main.c.o	272d6cf7bb202aea
+27	60	1732274476085751533	Programaci_n_estructura	e7e1a52292be3f39
+1	34	1732274544728866115	CMakeFiles/Programaci_n_estructura.dir/Estudiante.c.o	da2bd6b7d72c2c68
+1	35	1732274544728566071	CMakeFiles/Programaci_n_estructura.dir/main.c.o	272d6cf7bb202aea
+35	72	1732274544762985682	Programaci_n_estructura	e7e1a52292be3f39
+0	35	1732274653096797756	CMakeFiles/Programaci_n_estructura.dir/Estudiante.c.o	da2bd6b7d72c2c68
+0	37	1732274653096555505	CMakeFiles/Programaci_n_estructura.dir/main.c.o	272d6cf7bb202aea
+37	76	1732274653133180878	Programaci_n_estructura	e7e1a52292be3f39
+1	28	1732274713397426301	CMakeFiles/Programaci_n_estructura.dir/main.c.o	272d6cf7bb202aea
+28	58	1732274713424720830	Programaci_n_estructura	e7e1a52292be3f39
